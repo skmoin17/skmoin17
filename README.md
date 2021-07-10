@@ -2,7 +2,7 @@
 - 👀 I’m interested in degital marketing 
 - 🌱 I’m currently learning social media marketing
 - 💞️ I’m looking to collaborate on fiverr
-- 📫 How to reach me . visit: https://www.fiverr.com/users/moin_sk
+- 📫 How to reach me . visit: https://www.fiverr.com/moin_sk
 
 <!---
 skmoin17/skmoin17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
